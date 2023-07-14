@@ -1,0 +1,5 @@
+#带此标记的为注释行	配置文件测试		
+#	int	string	int
+#	ID	name	Atk
+	1	laowang	1999
+	2	zhangsan	2
